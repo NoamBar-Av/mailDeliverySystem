@@ -1,2 +1,4 @@
 # mailDeliverySystem
-get Packages from post office
+swing mvc architecture
+using sqlite database
+**work in progress**
