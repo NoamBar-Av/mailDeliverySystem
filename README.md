@@ -3,7 +3,7 @@ the project intent is to build i simple
 client employee post office parcel system
 where client enter id num and parcel numbers while at home
 and when he gets to the branch he just enterd his id and get number
-
+** Observer file is irrelevant**  
 mean while
 an employee get new queue number
 witch represent a client
